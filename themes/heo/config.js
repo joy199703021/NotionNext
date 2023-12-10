@@ -13,7 +13,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '与你分享',
   HEO_HERO_TITLE_2: '高手的黑箱',
   HEO_HERO_TITLE_3: 'Duyou.life/',
-  HEO_HERO_TITLE_4: 数字时代',
+  HEO_HERO_TITLE_4: '数字时代',
   HEO_HERO_TITLE_5: '聚焦于真正有价值的信息',
   HEO_HERO_TITLE_LINK: 'https://www.duyou.life/',
 
